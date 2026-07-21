@@ -173,9 +173,3 @@ id, userId (FK), title, messages (JSON), fileData (JSON), createdAt, updatedAt
 `fileData` stores both generated files and validated dependencies as a single JSON blob.
 
 Supabase Storage bucket: `workspace-images` — public, organized by `userId/workspaceId/`.
-
----
-
-## 🌟 Show your support
-
-Give a ⭐ if this project helped you learn something new!
